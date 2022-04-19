@@ -1,11 +1,11 @@
 [Output]
 Executable=0
-OutputFileName=C:\NVLMaker 3.x\project\Template\packtest\Data.xp3
+OutputFileName=D:\KADOKAWA\hiiropara_krkr\build\data.xp3
 
 [Extensions]
-Compress=.asd,.ks,.tjs,.txt,.wav
-Store=.edu,.jpg,.map,.ogg,.png,.sli
-Discard=
+Compress=.asd,.ks,.tjs,.txt
+Store=.edu,.jpg,.map,.ogg,.png,.xmp
+Discard=.rpf
 
 [Options]
 DoCompressSizeLimit=1
