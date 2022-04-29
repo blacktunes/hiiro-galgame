@@ -1,3 +1,0 @@
-@iscript
-Scripts.execStorage("MessageLayerADV.tjs");
-@endscript
